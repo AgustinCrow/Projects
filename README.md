@@ -1,2 +1,2 @@
 # Projects
-Este es un proyecto de prueba con git
+Proyecto para aprender a usar comandos basicos de git
